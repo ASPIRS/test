@@ -1,3 +1,2 @@
 # test
-first repository for test
-add a new line.
+first repository for text
