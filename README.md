@@ -1,2 +1,6 @@
 # test
-first repository for text
+<<<<<<< HEAD
+first repository for test0
+=======
+first repository for test
+>>>>>>> dev
