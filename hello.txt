@@ -3,3 +3,4 @@ git study
 much pressure!
 laosiji daidai wo!
 so late!
+git rebase
